@@ -1,0 +1,81 @@
+# 📞 Customer Churn Prediction using Artificial Neural Networks (ANN)
+
+This project uses a deep learning model to predict customer churn in the telecom industry based on features like tenure, monthly charges, internet service type, and more. It aims to help businesses identify customers likely to leave and take preventive actions.
+
+---
+
+## 📌 Problem Statement
+
+Customer churn significantly affects business revenue. By analyzing customer behavior data, we aim to build an ANN-based model that predicts the likelihood of a customer churning (leaving the service).
+
+---
+
+## 📁 Dataset
+
+- Source: [Customer Churn Dataset - Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+- Size: ~7000 records
+- Features: `gender`, `SeniorCitizen`, `tenure`, `MonthlyCharges`, `TotalCharges`, `Contract`, etc.
+
+---
+
+## 🛠️ Tools & Libraries
+
+- **Python**
+- **Pandas, NumPy**
+- **Matplotlib, Seaborn**
+- **TensorFlow / Keras**
+- **Sklearn (train_test_split, MinMaxScaler, metrics)**
+
+---
+
+## 🔄 Workflow
+
+1. **Data Preprocessing**
+   - Dropped `customerID`
+   - Converted `TotalCharges` to numeric and handled empty entries
+   - Replaced categorical 'No internet service' and 'No phone service' with 'No'
+   - Encoded binary columns (Yes/No → 1/0, Female/Male → 1/0)
+   - Applied one-hot encoding on multi-class columns
+   - Normalized numerical features using `MinMaxScaler`
+
+2. **Data Splitting**
+   - 80/20 train-test split using `train_test_split`
+
+3. **Model Architecture (ANN)**
+   - Input Layer: 26 features  
+   - Hidden Layer 1: 26 neurons (ReLU)  
+   - Hidden Layer 2: 15 neurons (ReLU)  
+   - Output Layer: 1 neuron (Sigmoid)
+
+4. **Model Training**
+   - Loss: Binary Crossentropy  
+   - Optimizer: Adam  
+   - Epochs: 100
+
+5. **Evaluation**
+   - Accuracy on test set
+   - Confusion Matrix
+   - Classification Report (Precision, Recall, F1-Score)
+
+---
+
+## ✅ Results
+
+- Achieved **decent classification performance**
+- Evaluation metrics used:
+  - Accuracy
+  - Precision, Recall, F1-score
+  - Confusion matrix visualization
+
+---
+
+## 📊 Visualizations
+
+- Tenure vs Churn histogram
+- Monthly Charges vs Churn histogram
+- Confusion matrix heatmap
+
+---
+
+## 📁 Project Structure
+
