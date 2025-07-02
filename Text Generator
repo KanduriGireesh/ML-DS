@@ -1,1 +1,72 @@
 
+# 🎤 Text Generation using LSTM (Adele Lyrics)
+
+This project demonstrates a character-level RNN (LSTM) that learns patterns in Adele's song lyrics and generates new lines of text based on a given seed input. Built using TensorFlow and Keras.
+
+---
+
+## 📌 Overview
+
+- **Objective:** Generate Adele-style lyrics using Recurrent Neural Networks (RNNs).
+- **Approach:** 
+  - Collected raw text data from an online lyrics file.
+  - Tokenized the text into sequences for model training.
+  - Trained an LSTM-based neural network using word embeddings.
+  - Used the trained model to generate new sequences of lyrics based on seed text.
+
+---
+
+## 🧠 Techniques Used
+
+- Text Preprocessing using `Tokenizer` and `pad_sequences`
+- Word Embedding Layer
+- LSTM-based RNN (Stacked LSTM)
+- Dropout for regularization (optional variations included)
+- Sequence generation with softmax prediction
+- Categorical crossentropy loss
+
+---
+
+## 📊 Dataset
+
+- Source: Raw text file of **Adele lyrics** from GitHub  
+  [`adele.txt`](https://raw.githubusercontent.com/laxmimerit/poetry-data/master/adele.txt)
+
+---
+
+## 🛠️ Technologies
+
+- Python
+- TensorFlow / Keras
+- NumPy
+- Requests (for data fetching)
+
+---
+
+## 🚀 Model Architecture
+
+- Embedding Layer (vocab size × 50)
+- LSTM Layer 1 (100 units, returns sequences)
+- LSTM Layer 2 (100 units)
+- Dense Layer (ReLU, 100 units)
+- Output Dense Layer (Softmax, vocab size)
+
+You can also experiment with:
+- `Dropout`, `recurrent_dropout`
+- `Conv1D` + LSTM combinations
+
+---
+
+## 📈 Training
+
+- **Loss Function:** Categorical Crossentropy
+- **Optimizer:** Adam
+- **Batch Size:** 32
+- **Epochs:** 150
+
+---
+
+## 💬 Example Outputs
+
+Input prompt: `"i want to see you"`  
+Generated lines:
