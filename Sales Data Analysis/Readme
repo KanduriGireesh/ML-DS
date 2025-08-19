@@ -1,0 +1,81 @@
+# 📊 Sales Data Analysis
+
+## 📌 Project Overview
+This project analyzes a **retail sales dataset** to uncover trends, seasonal patterns, and customer purchase behavior.  
+The dataset consists of **11 columns** such as order details, product information, and purchase location.  
+Additional attributes (`Month`, `Sales`, `City`, `Hour`) were engineered to support deeper analysis.  
+
+The main goals of this project are:
+- To identify **best-selling products** and **top-performing cities**
+- To analyze **monthly and hourly sales trends**
+- To study the **impact of price on quantity ordered**
+- To generate **business insights** that can guide marketing, pricing, and inventory strategies  
+
+---
+
+## 📂 Dataset
+The dataset contains the following attributes:
+
+| Column Name       | Description |
+|-------------------|-------------|
+| Order ID          | Unique ID for each order |
+| Product           | Purchased item |
+| Quantity Ordered  | Number of units ordered |
+| Price Each        | Price per unit |
+| Order Date        | Date of order placement |
+| Purchase Address  | Shipping address |
+| Month             | Month extracted from Order Date |
+| Sales             | Total sales for an order |
+| City              | City extracted from address |
+| Hour              | Hour extracted from Order Date |
+| Revenue           | Newly created column (Quantity × Price) |
+
+---
+
+## 🛠️ Tech Stack
+- **Python** 🐍
+- **Pandas, NumPy** → Data cleaning & transformation  
+- **Matplotlib, Seaborn** → Data visualization  
+- **Scikit-learn** → Data preprocessing (scaling, encoding)  
+
+---
+
+## 🔎 Exploratory Data Analysis
+1. **Data Cleaning**  
+   - Removed duplicates & missing values  
+   - Converted `Order Date` to datetime & extracted `Year`, `Month`, `Day`, `Hour`  
+   - Added new feature: **Revenue = Price Each × Quantity Ordered**  
+   - Encoded categorical columns (`Product`, `City`)  
+
+2. **Key Analysis**
+   - **Monthly Sales Performance** → Peak in **December**, lowest in **January/February**  
+   - **Top Products** → Batteries, charging cables, and laptops (by revenue)  
+   - **Price vs Quantity** → Negative correlation (expensive products → lower quantity)  
+   - **City-wise Sales** → San Francisco, Los Angeles, and New York lead in revenue  
+   - **Hourly Trends** → Peak orders between **11 AM – 7 PM**  
+
+---
+
+## 📊 Visualizations
+- **Monthly Sales Performance** (Bar chart)  
+- **Product Price vs Sales Volume** (Bar chart)  
+- **City-wise Sales Distribution** (Bar chart)  
+- **Hourly Sales Trend** (Line chart)  
+- **Correlation Heatmap** (Seaborn heatmap)  
+
+---
+
+## 📈 Insights
+1. **December generates the highest sales** due to holidays → focus on promotions.  
+2. **Cheaper products sell more**, while premium items contribute more per order.  
+3. **Top-performing cities**: San Francisco, LA, and NYC.  
+4. **Sales peak in evenings (7 PM)** → target marketing campaigns accordingly.  
+5. **Discounts on mid/high-value products** can improve sales volume.  
+6. **Bundling accessories with premium devices** increases total revenue.  
+
+---
+
+## 🚀 How to Run
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/your-username/sales-data-analysis.git
