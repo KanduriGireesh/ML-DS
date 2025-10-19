@@ -1,0 +1,14 @@
+cd C:\Users\giree\Downloads\smart-doctor-recommendation\smart-doctor-recommendation
+python -m venv .venv
+.venv\Scripts\activate
+python -m uvicorn app.main:app --reload --port 8000
+
+Step 2 — Find the endpoint
+You’ll see your API endpoint listed, something like:
+POST /recommend
+or
+POST /predict
+Click on it to expand.
+Step 3 — Click “Try it out”
+Then scroll down to the Request body section.
+Step 5 — Click Execute

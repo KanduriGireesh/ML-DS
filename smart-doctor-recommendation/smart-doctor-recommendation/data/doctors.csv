@@ -1,0 +1,201 @@
+Doctor,Hospital,City,Specialty,Experience,Rating,Cost,Reviews
+Dr. Varma 295,Max Hospital,Bengaluru,Orthopedics,7,3.8,1500,Did not explain the procedure clearly.
+Dr. Varma 470,Max Hospital,Mumbai,Dermatology,24,4.0,300,Great experience; highly recommended.
+Dr. Reddy 255,Max Hospital,Mumbai,Cardiology,25,4.1,1200,Explained everything well and helped a lot.
+Dr. Mehta 739,Manipal Hospital,Hyderabad,Pediatrics,28,4.0,1200,Friendly staff and effective treatment.
+Dr. Nair 161,Fortis Hospital,Hyderabad,Dermatology,14,3.2,600,Helpful doctor but appointment scheduling is hard.
+Dr. Patel 72,Manipal Hospital,Mumbai,Cardiology,17,3.8,1000,Great experience; highly recommended.
+Dr. Nair 838,Aster Hospital,Mumbai,Cardiology,22,4.9,1000,Doctor is skilled but the clinic is expensive.
+Dr. Sharma 166,Medanta Hospital,Mumbai,Pediatrics,23,3.8,600,Very long waiting time.
+Dr. Mehta 882,Apollo Hospital,Chennai,Dermatology,16,4.6,300,Great experience; highly recommended.
+Dr. Iyer 252,Medanta Hospital,Bengaluru,Cardiology,38,3.9,600,Did not explain the procedure clearly.
+Dr. Nair 848,Medanta Hospital,Delhi,Orthopedics,14,4.5,600,Great experience; highly recommended.
+Dr. Varma 891,Manipal Hospital,Delhi,Neurology,11,4.2,1200,Explained everything well and helped a lot.
+Dr. Reddy 532,Yashoda Hospital,Chennai,Pediatrics,24,3.2,500,Good treatment but long wait times.
+Dr. Reddy 657,Yashoda Hospital,Mumbai,Orthopedics,6,3.3,700,Very long waiting time.
+Dr. Mehta 961,Yashoda Hospital,Delhi,Dermatology,30,3.6,300,Rude staff and not helpful.
+Dr. Patel 435,Max Hospital,Delhi,Cardiology,28,3.3,1500,Rude staff and not helpful.
+Dr. Nair 330,Aster Hospital,Mumbai,Pediatrics,12,3.9,1000,Very patient and skilled doctor.
+Dr. Rao 765,Aster Hospital,Mumbai,Orthopedics,15,4.7,1000,Friendly staff and effective treatment.
+Dr. Iyer 970,Apollo Hospital,Mumbai,Cardiology,3,4.9,600,Great experience; highly recommended.
+Dr. Singh 847,Manipal Hospital,Hyderabad,Orthopedics,36,3.2,500,Unprofessional behaviour from the clinic.
+Dr. Singh 83,Aster Hospital,Mumbai,Cardiology,12,4.2,500,Very long waiting time.
+Dr. Rao 174,Yashoda Hospital,Chennai,Cardiology,25,4.2,700,Doctor is skilled but the clinic is expensive.
+Dr. Rao 391,Aster Hospital,Chennai,Dermatology,33,4.6,800,Very patient and skilled doctor.
+Dr. Patel 578,Apollo Hospital,Hyderabad,Orthopedics,7,4.9,700,Very patient and skilled doctor.
+Dr. Varma 905,Manipal Hospital,Bengaluru,Neurology,40,3.9,1000,Very long waiting time.
+Dr. Varma 144,Manipal Hospital,Delhi,Neurology,14,3.2,400,Doctor is skilled but the clinic is expensive.
+Dr. Mehta 273,Aster Hospital,Hyderabad,Cardiology,27,4.0,1000,Explained everything well and helped a lot.
+Dr. Iyer 738,Max Hospital,Mumbai,Orthopedics,31,4.2,400,Good follow-up and clear communication.
+Dr. Kumar 166,Manipal Hospital,Hyderabad,Orthopedics,1,4.6,500,Great experience; highly recommended.
+Dr. Iyer 675,Manipal Hospital,Mumbai,Orthopedics,35,3.3,1000,Treatment was expensive and results were average.
+Dr. Nair 559,Yashoda Hospital,Delhi,Pediatrics,26,3.1,500,Did not explain the procedure clearly.
+Dr. Mehta 205,Medanta Hospital,Chennai,Pediatrics,10,4.7,400,Good treatment but long wait times.
+Dr. Sharma 739,Manipal Hospital,Hyderabad,Pediatrics,10,4.0,700,Very long waiting time.
+Dr. Varma 208,Medanta Hospital,Hyderabad,Cardiology,25,4.9,1000,Very patient and skilled doctor.
+Dr. Reddy 800,Manipal Hospital,Chennai,Dermatology,8,3.6,1000,Unprofessional behaviour from the clinic.
+Dr. Kumar 711,Apollo Hospital,Chennai,Dermatology,12,3.7,300,Rude staff and not helpful.
+Dr. Singh 427,Apollo Hospital,Hyderabad,Cardiology,18,4.4,1500,Good follow-up and clear communication.
+Dr. Varma 333,Aster Hospital,Hyderabad,Dermatology,25,3.1,1200,Did not explain the procedure clearly.
+Dr. Sharma 859,Medanta Hospital,Delhi,Cardiology,17,3.7,800,Helpful doctor but appointment scheduling is hard.
+Dr. Kumar 743,Aster Hospital,Chennai,Cardiology,7,4.0,700,Good treatment but long wait times.
+Dr. Sharma 858,Max Hospital,Bengaluru,Neurology,29,4.9,1000,Friendly staff and effective treatment.
+Dr. Iyer 686,Max Hospital,Mumbai,Dermatology,27,3.5,500,Treatment was expensive and results were average.
+Dr. Sharma 403,Apollo Hospital,Bengaluru,Cardiology,32,4.5,300,Friendly staff and effective treatment.
+Dr. Patel 817,Fortis Hospital,Hyderabad,Pediatrics,37,3.5,800,Helpful doctor but appointment scheduling is hard.
+Dr. Singh 886,Fortis Hospital,Delhi,Cardiology,25,3.8,600,Explained everything well and helped a lot.
+Dr. Kumar 877,Aster Hospital,Bengaluru,Neurology,30,3.1,1200,Good treatment but long wait times.
+Dr. Varma 282,Aster Hospital,Mumbai,Pediatrics,25,3.2,300,Rude staff and not helpful.
+Dr. Mehta 637,Fortis Hospital,Delhi,Cardiology,31,3.6,600,Good treatment but long wait times.
+Dr. Rao 90,Apollo Hospital,Hyderabad,Neurology,6,3.0,500,Unprofessional behaviour from the clinic.
+Dr. Iyer 645,Apollo Hospital,Chennai,Orthopedics,37,4.6,1000,Friendly staff and effective treatment.
+Dr. Singh 737,Apollo Hospital,Bengaluru,Pediatrics,18,3.3,400,Treatment was expensive and results were average.
+Dr. Sharma 239,Medanta Hospital,Hyderabad,Cardiology,7,3.4,800,Treatment was expensive and results were average.
+Dr. Nair 776,Manipal Hospital,Delhi,Neurology,5,4.1,300,Doctor is skilled but the clinic is expensive.
+Dr. Reddy 788,Manipal Hospital,Chennai,Dermatology,39,4.1,500,Rude staff and not helpful.
+Dr. Mehta 596,Manipal Hospital,Hyderabad,Pediatrics,23,4.1,800,Doctor is skilled but the clinic is expensive.
+Dr. Patel 571,Apollo Hospital,Mumbai,Cardiology,23,4.3,400,Friendly staff and effective treatment.
+Dr. Rao 794,Apollo Hospital,Bengaluru,Pediatrics,32,4.5,1200,Very patient and skilled doctor.
+Dr. Nair 604,Fortis Hospital,Hyderabad,Cardiology,2,3.3,400,Did not explain the procedure clearly.
+Dr. Varma 615,Manipal Hospital,Bengaluru,Orthopedics,9,4.9,500,Great experience; highly recommended.
+Dr. Iyer 373,Fortis Hospital,Mumbai,Orthopedics,34,3.0,800,Doctor is skilled but the clinic is expensive.
+Dr. Singh 934,Aster Hospital,Bengaluru,Neurology,21,3.1,400,Rude staff and not helpful.
+Dr. Sharma 790,Max Hospital,Delhi,Neurology,7,3.4,300,Very long waiting time.
+Dr. Varma 750,Aster Hospital,Hyderabad,Orthopedics,37,3.2,800,Rude staff and not helpful.
+Dr. Kumar 645,Yashoda Hospital,Chennai,Cardiology,24,4.4,1200,Good treatment but long wait times.
+Dr. Patel 855,Manipal Hospital,Delhi,Pediatrics,16,3.3,1200,Did not explain the procedure clearly.
+Dr. Mehta 195,Max Hospital,Chennai,Neurology,9,3.7,300,Very patient and skilled doctor.
+Dr. Reddy 973,Yashoda Hospital,Chennai,Pediatrics,6,4.0,700,Helpful doctor but appointment scheduling is hard.
+Dr. Singh 65,Aster Hospital,Mumbai,Pediatrics,11,4.5,300,Good follow-up and clear communication.
+Dr. Sharma 559,Yashoda Hospital,Bengaluru,Neurology,39,3.8,600,Did not explain the procedure clearly.
+Dr. Rao 946,Max Hospital,Hyderabad,Cardiology,1,4.8,500,Very patient and skilled doctor.
+Dr. Nair 203,Apollo Hospital,Delhi,Pediatrics,8,3.5,800,Helpful doctor but appointment scheduling is hard.
+Dr. Kumar 336,Yashoda Hospital,Chennai,Cardiology,13,4.4,800,Very patient and skilled doctor.
+Dr. Rao 365,Fortis Hospital,Bengaluru,Orthopedics,15,3.8,700,Treatment was expensive and results were average.
+Dr. Mehta 222,Aster Hospital,Bengaluru,Neurology,12,4.8,1500,Doctor is skilled but the clinic is expensive.
+Dr. Sharma 348,Yashoda Hospital,Mumbai,Neurology,31,3.2,1000,Good treatment but long wait times.
+Dr. Patel 620,Aster Hospital,Hyderabad,Neurology,6,3.5,1000,Good treatment but long wait times.
+Dr. Kumar 192,Aster Hospital,Bengaluru,Pediatrics,11,4.9,700,Good follow-up and clear communication.
+Dr. Varma 917,Medanta Hospital,Delhi,Dermatology,16,3.6,500,Very long waiting time.
+Dr. Kumar 580,Medanta Hospital,Hyderabad,Neurology,28,4.1,300,Unprofessional behaviour from the clinic.
+Dr. Varma 692,Manipal Hospital,Bengaluru,Orthopedics,40,3.7,1500,Friendly staff and effective treatment.
+Dr. Sharma 762,Fortis Hospital,Chennai,Cardiology,22,4.9,500,Good treatment but long wait times.
+Dr. Rao 783,Yashoda Hospital,Delhi,Cardiology,9,4.1,600,Good follow-up and clear communication.
+Dr. Nair 401,Medanta Hospital,Chennai,Pediatrics,8,3.6,1000,Helpful doctor but appointment scheduling is hard.
+Dr. Kumar 425,Aster Hospital,Chennai,Cardiology,17,4.1,700,Explained everything well and helped a lot.
+Dr. Reddy 118,Yashoda Hospital,Delhi,Cardiology,21,4.6,500,Doctor is skilled but the clinic is expensive.
+Dr. Sharma 35,Apollo Hospital,Mumbai,Pediatrics,1,4.7,600,Great experience; highly recommended.
+Dr. Nair 688,Max Hospital,Chennai,Pediatrics,17,4.0,400,Unprofessional behaviour from the clinic.
+Dr. Singh 790,Manipal Hospital,Chennai,Neurology,37,3.1,700,Doctor is skilled but the clinic is expensive.
+Dr. Iyer 892,Yashoda Hospital,Mumbai,Pediatrics,7,3.9,700,Rude staff and not helpful.
+Dr. Singh 609,Medanta Hospital,Chennai,Cardiology,23,4.4,300,Doctor is skilled but the clinic is expensive.
+Dr. Patel 672,Aster Hospital,Hyderabad,Dermatology,21,4.5,1500,Very patient and skilled doctor.
+Dr. Rao 122,Fortis Hospital,Bengaluru,Orthopedics,23,4.0,1200,Did not explain the procedure clearly.
+Dr. Iyer 85,Aster Hospital,Delhi,Neurology,2,4.5,1500,Very patient and skilled doctor.
+Dr. Varma 125,Aster Hospital,Bengaluru,Cardiology,10,3.1,300,Unprofessional behaviour from the clinic.
+Dr. Mehta 873,Apollo Hospital,Chennai,Orthopedics,3,4.0,400,Explained everything well and helped a lot.
+Dr. Kumar 68,Apollo Hospital,Hyderabad,Pediatrics,7,4.2,500,Great experience; highly recommended.
+Dr. Rao 636,Apollo Hospital,Bengaluru,Orthopedics,6,4.7,1200,Explained everything well and helped a lot.
+Dr. Mehta 697,Manipal Hospital,Bengaluru,Pediatrics,39,4.8,600,Doctor is skilled but the clinic is expensive.
+Dr. Nair 100,Yashoda Hospital,Delhi,Neurology,40,4.0,500,Good follow-up and clear communication.
+Dr. Kumar 137,Max Hospital,Hyderabad,Orthopedics,16,3.3,500,Rude staff and not helpful.
+Dr. Iyer 498,Fortis Hospital,Delhi,Pediatrics,28,3.0,1200,Good treatment but long wait times.
+Dr. Rao 171,Manipal Hospital,Chennai,Cardiology,8,3.0,300,Helpful doctor but appointment scheduling is hard.
+Dr. Singh 867,Aster Hospital,Hyderabad,Pediatrics,14,3.2,800,Very long waiting time.
+Dr. Iyer 505,Fortis Hospital,Hyderabad,Cardiology,12,3.1,700,Helpful doctor but appointment scheduling is hard.
+Dr. Varma 797,Yashoda Hospital,Delhi,Orthopedics,14,4.0,1500,Good treatment but long wait times.
+Dr. Varma 741,Aster Hospital,Hyderabad,Cardiology,16,3.4,500,Helpful doctor but appointment scheduling is hard.
+Dr. Mehta 592,Yashoda Hospital,Hyderabad,Orthopedics,11,3.7,1500,Very long waiting time.
+Dr. Nair 635,Medanta Hospital,Bengaluru,Neurology,26,3.9,1500,Helpful doctor but appointment scheduling is hard.
+Dr. Sharma 42,Aster Hospital,Chennai,Cardiology,29,3.0,1000,Did not explain the procedure clearly.
+Dr. Sharma 574,Max Hospital,Chennai,Cardiology,7,3.2,300,Did not explain the procedure clearly.
+Dr. Nair 318,Medanta Hospital,Hyderabad,Cardiology,17,4.9,300,Great experience; highly recommended.
+Dr. Nair 884,Medanta Hospital,Delhi,Neurology,33,3.7,1000,Rude staff and not helpful.
+Dr. Varma 523,Fortis Hospital,Mumbai,Dermatology,21,4.1,300,Good treatment but long wait times.
+Dr. Mehta 240,Apollo Hospital,Delhi,Neurology,8,4.9,600,Friendly staff and effective treatment.
+Dr. Rao 380,Apollo Hospital,Bengaluru,Pediatrics,34,3.9,800,Friendly staff and effective treatment.
+Dr. Iyer 904,Yashoda Hospital,Bengaluru,Pediatrics,38,4.4,700,Good follow-up and clear communication.
+Dr. Kumar 42,Yashoda Hospital,Chennai,Neurology,30,3.7,800,Very patient and skilled doctor.
+Dr. Rao 93,Aster Hospital,Hyderabad,Orthopedics,15,3.6,1500,Very long waiting time.
+Dr. Rao 497,Aster Hospital,Hyderabad,Pediatrics,38,3.5,600,Did not explain the procedure clearly.
+Dr. Singh 30,Apollo Hospital,Chennai,Neurology,32,4.9,600,Good treatment but long wait times.
+Dr. Rao 840,Aster Hospital,Bengaluru,Cardiology,37,4.2,1200,Did not explain the procedure clearly.
+Dr. Reddy 653,Fortis Hospital,Chennai,Cardiology,27,3.4,300,Doctor is skilled but the clinic is expensive.
+Dr. Patel 224,Fortis Hospital,Bengaluru,Neurology,25,4.3,1000,Friendly staff and effective treatment.
+Dr. Singh 944,Aster Hospital,Mumbai,Neurology,31,4.7,1200,Helpful doctor but appointment scheduling is hard.
+Dr. Reddy 774,Apollo Hospital,Bengaluru,Dermatology,35,4.6,300,Very patient and skilled doctor.
+Dr. Kumar 279,Apollo Hospital,Bengaluru,Cardiology,35,5.0,300,Doctor is skilled but the clinic is expensive.
+Dr. Reddy 919,Medanta Hospital,Bengaluru,Neurology,15,4.4,1000,Friendly staff and effective treatment.
+Dr. Sharma 28,Fortis Hospital,Mumbai,Orthopedics,18,3.7,600,Friendly staff and effective treatment.
+Dr. Singh 207,Fortis Hospital,Bengaluru,Orthopedics,15,4.7,1000,Good treatment but long wait times.
+Dr. Rao 680,Max Hospital,Mumbai,Cardiology,37,4.5,600,Doctor is skilled but the clinic is expensive.
+Dr. Mehta 332,Aster Hospital,Chennai,Cardiology,12,4.5,300,Helpful doctor but appointment scheduling is hard.
+Dr. Iyer 958,Max Hospital,Hyderabad,Dermatology,25,5.0,300,Very patient and skilled doctor.
+Dr. Mehta 23,Max Hospital,Hyderabad,Dermatology,28,3.3,800,Very long waiting time.
+Dr. Nair 119,Manipal Hospital,Delhi,Pediatrics,40,4.6,1500,Good follow-up and clear communication.
+Dr. Singh 816,Manipal Hospital,Chennai,Cardiology,8,3.5,600,Good treatment but long wait times.
+Dr. Kumar 827,Medanta Hospital,Hyderabad,Dermatology,37,4.5,700,Great experience; highly recommended.
+Dr. Patel 719,Yashoda Hospital,Bengaluru,Orthopedics,18,3.3,1200,Did not explain the procedure clearly.
+Dr. Nair 461,Manipal Hospital,Delhi,Pediatrics,23,4.2,1000,Rude staff and not helpful.
+Dr. Iyer 998,Aster Hospital,Hyderabad,Pediatrics,29,4.8,800,Good follow-up and clear communication.
+Dr. Mehta 691,Yashoda Hospital,Mumbai,Orthopedics,29,3.1,600,Rude staff and not helpful.
+Dr. Sharma 708,Medanta Hospital,Mumbai,Cardiology,38,3.7,1000,Doctor is skilled but the clinic is expensive.
+Dr. Iyer 186,Apollo Hospital,Delhi,Cardiology,5,3.2,500,Good treatment but long wait times.
+Dr. Mehta 64,Aster Hospital,Delhi,Cardiology,32,4.8,300,Friendly staff and effective treatment.
+Dr. Rao 973,Apollo Hospital,Delhi,Cardiology,10,4.3,600,Very patient and skilled doctor.
+Dr. Nair 980,Apollo Hospital,Mumbai,Dermatology,1,4.1,1200,Very long waiting time.
+Dr. Patel 573,Yashoda Hospital,Mumbai,Dermatology,25,3.2,600,Unprofessional behaviour from the clinic.
+Dr. Singh 13,Yashoda Hospital,Mumbai,Orthopedics,38,4.8,800,Good follow-up and clear communication.
+Dr. Singh 337,Manipal Hospital,Delhi,Orthopedics,6,4.5,600,Helpful doctor but appointment scheduling is hard.
+Dr. Kumar 226,Apollo Hospital,Delhi,Neurology,34,3.3,1200,Did not explain the procedure clearly.
+Dr. Varma 930,Yashoda Hospital,Chennai,Neurology,28,3.8,700,Good treatment but long wait times.
+Dr. Sharma 174,Aster Hospital,Delhi,Cardiology,34,4.6,400,Very patient and skilled doctor.
+Dr. Varma 493,Fortis Hospital,Mumbai,Dermatology,19,4.0,500,Very long waiting time.
+Dr. Sharma 250,Apollo Hospital,Bengaluru,Cardiology,40,5.0,1200,Great experience; highly recommended.
+Dr. Nair 390,Manipal Hospital,Mumbai,Dermatology,32,4.0,700,Did not explain the procedure clearly.
+Dr. Singh 450,Medanta Hospital,Mumbai,Orthopedics,1,3.1,1500,Doctor is skilled but the clinic is expensive.
+Dr. Kumar 101,Aster Hospital,Mumbai,Cardiology,19,4.4,500,Good follow-up and clear communication.
+Dr. Varma 149,Apollo Hospital,Delhi,Pediatrics,2,3.1,1500,Very long waiting time.
+Dr. Reddy 55,Apollo Hospital,Chennai,Dermatology,17,3.9,300,Good treatment but long wait times.
+Dr. Mehta 487,Medanta Hospital,Delhi,Pediatrics,33,4.9,700,Explained everything well and helped a lot.
+Dr. Kumar 301,Manipal Hospital,Delhi,Cardiology,14,3.5,600,Very long waiting time.
+Dr. Nair 692,Fortis Hospital,Hyderabad,Dermatology,12,3.9,600,Unprofessional behaviour from the clinic.
+Dr. Iyer 296,Manipal Hospital,Chennai,Dermatology,25,4.1,300,Treatment was expensive and results were average.
+Dr. Iyer 310,Medanta Hospital,Mumbai,Dermatology,17,4.9,1500,Good treatment but long wait times.
+Dr. Varma 723,Fortis Hospital,Hyderabad,Neurology,4,4.4,500,Good treatment but long wait times.
+Dr. Nair 763,Fortis Hospital,Delhi,Orthopedics,21,3.6,1200,Did not explain the procedure clearly.
+Dr. Mehta 3,Yashoda Hospital,Delhi,Orthopedics,10,3.4,700,Unprofessional behaviour from the clinic.
+Dr. Sharma 988,Fortis Hospital,Bengaluru,Cardiology,32,4.3,500,Very patient and skilled doctor.
+Dr. Reddy 379,Manipal Hospital,Mumbai,Neurology,17,4.8,1500,Great experience; highly recommended.
+Dr. Sharma 970,Fortis Hospital,Delhi,Cardiology,8,3.9,1000,Friendly staff and effective treatment.
+Dr. Varma 379,Manipal Hospital,Hyderabad,Dermatology,40,3.3,400,Treatment was expensive and results were average.
+Dr. Iyer 57,Yashoda Hospital,Bengaluru,Neurology,5,3.1,1500,Good treatment but long wait times.
+Dr. Reddy 595,Yashoda Hospital,Hyderabad,Orthopedics,39,3.3,600,Doctor is skilled but the clinic is expensive.
+Dr. Mehta 275,Aster Hospital,Delhi,Orthopedics,18,4.8,500,Good treatment but long wait times.
+Dr. Patel 149,Fortis Hospital,Bengaluru,Neurology,16,3.7,800,Good treatment but long wait times.
+Dr. Kumar 363,Aster Hospital,Mumbai,Neurology,38,4.8,700,Great experience; highly recommended.
+Dr. Kumar 661,Apollo Hospital,Chennai,Dermatology,17,3.2,500,Did not explain the procedure clearly.
+Dr. Singh 180,Apollo Hospital,Chennai,Dermatology,1,4.0,600,Very long waiting time.
+Dr. Nair 744,Apollo Hospital,Chennai,Pediatrics,3,4.1,1200,Good follow-up and clear communication.
+Dr. Mehta 57,Manipal Hospital,Chennai,Orthopedics,6,4.4,800,Great experience; highly recommended.
+Dr. Kumar 621,Yashoda Hospital,Mumbai,Neurology,35,4.3,1000,Friendly staff and effective treatment.
+Dr. Singh 894,Max Hospital,Delhi,Neurology,30,4.9,700,Great experience; highly recommended.
+Dr. Reddy 623,Yashoda Hospital,Hyderabad,Orthopedics,37,4.2,600,Did not explain the procedure clearly.
+Dr. Sharma 139,Apollo Hospital,Chennai,Cardiology,18,3.3,800,Doctor is skilled but the clinic is expensive.
+Dr. Mehta 640,Max Hospital,Mumbai,Pediatrics,6,4.8,500,Explained everything well and helped a lot.
+Dr. Patel 864,Medanta Hospital,Delhi,Orthopedics,35,3.1,1200,Rude staff and not helpful.
+Dr. Nair 990,Max Hospital,Mumbai,Orthopedics,26,4.0,500,Rude staff and not helpful.
+Dr. Nair 371,Fortis Hospital,Hyderabad,Dermatology,33,4.1,1200,Very patient and skilled doctor.
+Dr. Rao 340,Medanta Hospital,Mumbai,Cardiology,40,4.3,300,Doctor is skilled but the clinic is expensive.
+Dr. Patel 146,Yashoda Hospital,Bengaluru,Dermatology,34,5.0,400,Helpful doctor but appointment scheduling is hard.
+Dr. Mehta 680,Apollo Hospital,Bengaluru,Orthopedics,14,4.8,1200,Friendly staff and effective treatment.
+Dr. Singh 718,Apollo Hospital,Chennai,Pediatrics,4,4.6,600,Good treatment but long wait times.
+Dr. Nair 339,Apollo Hospital,Hyderabad,Neurology,22,4.1,1200,Good follow-up and clear communication.
+Dr. Varma 727,Manipal Hospital,Mumbai,Cardiology,39,4.2,700,Treatment was expensive and results were average.
+Dr. Patel 641,Medanta Hospital,Delhi,Pediatrics,31,3.5,400,Good treatment but long wait times.
+Dr. Singh 149,Yashoda Hospital,Mumbai,Orthopedics,13,3.3,1200,Doctor is skilled but the clinic is expensive.
+Dr. Patel 223,Max Hospital,Bengaluru,Dermatology,33,5.0,700,Doctor is skilled but the clinic is expensive.
+Dr. Nair 780,Aster Hospital,Mumbai,Neurology,20,3.3,600,Treatment was expensive and results were average.
+Dr. Mehta 308,Manipal Hospital,Hyderabad,Dermatology,24,3.5,300,Very long waiting time.
+Dr. Kumar 290,Max Hospital,Delhi,Cardiology,28,4.1,1500,Doctor is skilled but the clinic is expensive.
+Dr. Patel 955,Apollo Hospital,Delhi,Dermatology,2,3.7,800,Good treatment but long wait times.
